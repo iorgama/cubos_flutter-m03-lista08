@@ -15,3 +15,7 @@
 ## Exercício 4 - Dark Mode
 
 - Objetivo: Desenvolver uma aplicação com a opção de Dark Mode (tema escuro).
+
+## Exercício 5 - Reserva Hostel
+
+- Objetivo: Desenvolver um aplicativo de reserva de hospedagem.
